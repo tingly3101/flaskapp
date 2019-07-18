@@ -28,6 +28,7 @@ gast==0.2.2
 gensim==3.7.3
 goose-extractor==1.0.25
 grpcio==1.16.1
+gunicorn==19.9.0
 h5py==2.9.0
 idna==2.8
 importlib-metadata==0.18
